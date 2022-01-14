@@ -1,7 +1,5 @@
-# Hardhat Template
-This is a SushiSwap MasterChef Test.
-
-It tests the use of the contracts functions.
+# Multisig Wallet
+This is a Multisig wallet contract with a test.
 
 ## Getting started
 Clone the repo into your project directory:
